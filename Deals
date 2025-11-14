@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <div class="hero">
-            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Crect fill='%23667eea' width='180' height='180' rx='90'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-size='60' fill='white' font-family='Arial'%3EDS%3C/text%3E%3C/svg%3E" alt="Deepak Sharma" class="profile-img">
+            <img src="profile.jpg" alt="Deepak Sharma" class="profile-img">
             <h1>Deepak Sharma</h1>
             <p class="tagline">Viral Shop Videos Specialist</p>
             <a href="https://www.instagram.com/ky.bhilai/" target="_blank" class="social-link">
